@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1670009615 source:/home/denni/Escritorio/PONCE_DENNIS_primeroC/modulo_seguridad/main.cpp
+	<iostream>
+	<unistd.h>
+	<cmath>
+	<stdlib.h>
+
